@@ -1,2 +1,2 @@
 # BullCityStreetFoods
-Website for start-up food truck/food hall restaurant
+Website for food truck/food hall restaurant
